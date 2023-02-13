@@ -1,1 +1,1 @@
-This repo is used as test for the Encode Solidity Botcamp
+This repo is used as test for the Encode Solidity Bootcamp
